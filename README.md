@@ -15,7 +15,7 @@ We'll use Python virtual environment (venv) for this project to ensure a clean, 
 
 1. Clone the repository:
 ```bash
-git clone gitlab.aws.dev:my-group-aditranj/medical-analysis-dashboard.git
+git clone https://github.com/aws-samples/sample-medical-analysis-dashboard.git
 ```
 
 2. Create and activate virtual environment:
